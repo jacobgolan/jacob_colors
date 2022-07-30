@@ -1,4 +1,4 @@
-jacob_colors<-structure(list(main = c("red", "red", "red", "red", "red", "red", 
+structure(list(main = c("red", "red", "red", "red", "red", "red", 
 "red", "red", "red", "red", "red", "red", "red", "red", "red", 
 "red", "red", "red", "red", "red", "red", "red", "red", "red", 
 "red", "red", "red", "red", "red", "red", "orange", "orange", 
